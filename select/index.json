@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "シルシ",
+  "base_artist": "LiSA",
+  "createdAt": "2025-12-27T07:48:13.225880Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シルシ",
+      "artist": "RU",
+      "has_synced": false,
+      "path": "select/01_シルシ_RU.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シルシ",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/02_シルシ_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シルシ",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/03_シルシ_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シルシ",
+      "artist": "ClariS",
+      "has_synced": false,
+      "path": "select/04_シルシ_ClariS.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シルシ -2015武道館 Live Chocolate Ver.-",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/05_シルシ_-2015武道館_Live_Chocolate_Ver.-_LiSA.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シルシ -2015武道館 Live Ichigo Ver.-",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/06_シルシ_-2015武道館_Live_Ichigo_Ver.-_LiSA.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "シルシ",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/07_シルシ_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "シルシ",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/08_シルシ_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "シルシ - Shirushi",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/09_シルシ_-_Shirushi_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "シルシ -TV ver.-",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/10_シルシ_-TV_ver.-_LiSA.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "シルシ",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/11_シルシ_ClariS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シルシ",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/pl_01_シルシ_LiSA.txt"
+    }
+  ]
+}
